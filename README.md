@@ -33,11 +33,17 @@ Cada um desses modelos foi ajustado aos dados históricos e utilizado para preve
 Para rodar o projeto, você precisará dos seguintes pacotes:
 
 Python 3.x
+
 Keras
+
 TensorFlow
+
 NumPy
+
 Scikit-learn (para análise exploratória, Grid Search e pré-processamento dos dados)
+
 Statsmodels (para modelos ARIMA, SARIMA, etc.)
+
 Matplotlib/Seaborn (para visualizações)
 
 
